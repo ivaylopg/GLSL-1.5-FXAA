@@ -1,0 +1,45 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.app
+*.app/*
+*.mode*
+build/
+obj/
+Debug*/
+Release*/
+*.pyc
+
+# openFrameworks Specific #
+*/bin/*
+!*/bin/data/
+
+# osx noise
+.DS_Store
+profile
+*.swp
+*~.nib
+# Thumbnails
+._*
+
+# xcode noise
+build/*
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+*.xcworkspace
+xcuserdata
+
+# svn & cvs
+.svn
+CVS
+
+Axion_AMS.xcodeproj/project.xcworkspace/xcuserdata/ivaylopg.xcuserdatad/UserInterfaceState.xcuserstate
